@@ -1,5 +1,5 @@
 # Cheerio Bowl
-A collection of node scrapers written specifically using [cheerio](https://github.com/MatthewMueller/cheerio) and [request](https://github.com/mikeal)
+A collection of node scrapers written specifically using [cheerio](https://github.com/MatthewMueller/cheerio) and [request](https://github.com/mikeal/request)
 
 ## Installation
 
